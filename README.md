@@ -36,6 +36,6 @@ chkp_path = 'checkpoint_name_here'
 
 By default, checkpoints are saved in /saved_models/ 
 
-
-
+## Sythesized noise pipeline
+![Image text](https://github.com/zhagao84/New-Adventure-In-Noise-Modeling/blob/master/sampleimage/pipeline.png)
 
