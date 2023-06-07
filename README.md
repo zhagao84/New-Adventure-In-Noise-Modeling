@@ -1,5 +1,5 @@
 # New Adventure in Noise Modeling
-In recent years, deep neural network-based image and video denoising technolo- gies have achieved unprecedented progress. Existing techniques rely on large-scale noisy-clean image pairs for training the denoising models. However, capturing a real camera dataset is an unacceptable expensive, and laborious procedure. This Semester Project is dedicated to investigating a novel method to generate realistic noisy images.
+In recent years, deep neural network-based image and video denoising technologies have achieved unprecedented progress. Existing techniques rely on large-scale noisy-clean image pairs for training the denoising models. However, capturing a real camera dataset is an unacceptable expensive, and laborious procedure. This Semester Project is dedicated to investigating a novel method to generate realistic noisy images.
 In this work, inspired by Kristina et al., we introduced a new perspective for synthesizing realistic image noise. We propose to use a combination of physical- based and DNN-based (GAN)methods. The noise model is learned by using a physics-inspired noise generator and easy-to-obtain paired images.
 
 ## Setup:
@@ -13,7 +13,7 @@ source activate starlight
 
 
 ## Dataset 
-Our approach is trained and evaluated on a widely used real image de- noising dataset SIDD. SIDD is collected by five smartphone cameras.
+Our approach is trained and evaluated on a widely used real image denoising dataset SIDD. SIDD is collected by five smartphone cameras.
 In addition, used as a comparison, we also synthesize noise on DUS. 
 
 
